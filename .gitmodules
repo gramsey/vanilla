@@ -4,3 +4,81 @@
 [submodule "mods/3d_armor"]
 	path = mods/3d_armor
 	url = git@github.com:gramsey/3d_armor.git
+[submodule "mods/abriglass"]
+	path = mods/abriglass
+	url = git@github.com:gramsey/abriglass.git
+[submodule "mods/abripanes"]
+	path = mods/abripanes
+	url = git@github.com:gramsey/abripanes.git
+[submodule "mods/ambience"]
+	path = mods/ambience
+	url = git@github.com:gramsey/ambience.git
+[submodule "mods/awards"]
+	path = mods/awards
+	url = git@github.com:gramsey/awards.git
+[submodule "mods/bakedclay"]
+	path = mods/bakedclay
+	url = git@github.com:gramsey/bakedclay.git
+[submodule "mods/basic_materials"]
+	path = mods/basic_materials
+	url = git@github.com:gramsey/basic_materials.git
+[submodule "mods/basic_signs"]
+	path = mods/basic_signs
+	url = git@github.com:gramsey/basic_signs.git
+[submodule "mods/signs_lib"]
+	path = mods/signs_lib
+	url = git@github.com:gramsey/signs_lib.git
+[submodule "mods/cartographer"]
+	path = mods/cartographer
+	url = https://gitlab.com/Df458/cartographer.git
+[submodule "mods/cartographer_zero"]
+	path = mods/cartographer_zero
+	url = git@gitlab.com:m4895/cartographer_zero.git
+[submodule "mods/cement"]
+	path = mods/cement
+	url = git@gitlab.com:m4895/cement.git
+[submodule "mods/craftguide"]
+	path = mods/craftguide
+	url = git@gitlab.com:m4895/craftguide.git
+[submodule "mods/minetest_hudbars"]
+	path = mods/minetest_hudbars
+	url = git://repo.or.cz/minetest_hudbars.git
+[submodule "mods/hbsprint"]
+	path = mods/hbsprint
+	url = https://github.com/minetest-mods/hbsprint
+[submodule "mods/minetest_hbhunger"]
+	path = mods/minetest_hbhunger
+	url = git://repo.or.cz/minetest_hbhunger.git
+[submodule "mods/icetower"]
+	path = mods/icetower
+	url = git@gitlab.com:m4895/icetower.git
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = git@gitlab.com:m4895/mesecons.git
+[submodule "mods/mobs"]
+	path = mods/mobs
+	url = git@gitlab.com:m4895/mobs.git
+[submodule "mods/pipeworks"]
+	path = mods/pipeworks
+	url = git@gitlab.com:m4895/pipeworks.git
+[submodule "mods/portal_rail"]
+	path = mods/portal_rail
+	url = git@gitlab.com:m4895/portal_rail.git
+[submodule "mods/mobs_monster"]
+	path = mods/mobs_monster
+	url = git@gitlab.com:m4895/mobs_monster.git
+[submodule "mods/mobs_animal"]
+	path = mods/mobs_animal
+	url = git@gitlab.com:m4895/mobs_animal.git
+[submodule "mods/mobs_npc"]
+	path = mods/mobs_npc
+	url = git@gitlab.com:m4895/mobs_npc.git
+[submodule "mods/protector"]
+	path = mods/protector
+	url = git@gitlab.com:m4895/protector.git
+[submodule "mods/skinsdb"]
+	path = mods/skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
+[submodule "mods/ts_furniture"]
+	path = mods/ts_furniture
+	url = git@gitlab.com:m4895/ts_furniture.git
